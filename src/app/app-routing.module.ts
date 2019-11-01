@@ -4,7 +4,7 @@ import {CategoryComponent} from './category/category.component';
 
 
 const routes: Routes = [
-  {path : 'categoryList' , component : CategoryComponent}
+  {path : 'jeopardy' , component : CategoryComponent}
 ];
 
 @NgModule({
